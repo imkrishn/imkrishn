@@ -1,3 +1,32 @@
+
+
+### **Fullstack Engineer who ships.** 2+ years in production, 6+ years of coding experience, and a bias for getting things live.
+
+I'm Krishna, a builder who loves turning ideas into products people actually use. I shipped across multiple products as Software Engineer and manage team like a leader.
+
+**🚀 What I've built from scratch**
+
+| Project | What it does |
+|---|---|
+| [**Notex**](https://github.com/imkrishn/Notex) | Real-time collaboration |
+| [**Drifnet**](https://github.com/imkrishn/Drifnet) | Community management |
+| [**Smartlink**](https://github.com/imkrishn/smartlink) | Link management |
+| **Samatic** | A personal AI agent I'm developing right now |
+
+**⚡ What I care about**
+
+- 🛠️ **Building:** I'm happiest when something is going live.
+- 🧠 **Learning fast:** new stack, new domain, no problem.
+- 🏆 **Winning:** I bring intensity and a bias for shipping.
+- 🌱 **Open source:** it fills a good part of my spare time.
+
+
+
+**📬 Open to:** remote Fullstack or Frontend roles and founder conversations. If you're building something, I'm happy to hop on a **15-minute call** . Available on **US/EU Timezone**
+
+
+
+
 <div align="center">
 
 <!-- hero: monochrome ASCII portrait (types in) beside the extruded 3d ascii
@@ -6,7 +35,7 @@
      portrait: python scripts/prep_photo.py <photo> && python scripts/make_ascii_svg.py
      wordmark: python scripts/make_wordmark_svg.py --mode rock -->
 
-<h3><code>imkrishn@github ~ $ whoami</code></h3>
+
 
 <table>
 <tr>
@@ -31,11 +60,5 @@
 <h3><code>imkrishn@github ~ $ ./links.sh</code></h3>
 
 <p><b>Krishna Yadav · Developer · Builder</b></p>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-Krishna_Yadav-0d1117?style=for-the-badge&logo=notion&logoColor=white)](https://feline-soy-755.notion.site/Krishna-Yadav-9b530baeb9d5823ebe7b014ff83e2a69)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Krishna_Yadav-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/krishna-yadav-26a201257)
-[![GitHub](https://img.shields.io/badge/GitHub-imkrishn-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/imkrishn)
-
-<br>
 
 </div>
