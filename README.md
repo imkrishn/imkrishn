@@ -1,17 +1,9 @@
 
 
-### **Fullstack Engineer who ships.** 2+ years in production, 6+ years of coding experience, and a bias for getting things live.
+### **Fullstack Engineer who's shipping real  products from last 2+ years.
 
 I'm Krishna, a builder who loves turning ideas into products people actually use. I shipped across multiple products as Software Engineer and manage team like a leader.
 
-**🚀 What I've built from scratch**
-
-| Project | What it does |
-|---|---|
-| [**Notex**](https://github.com/imkrishn/Notex) | Real-time collaboration |
-| [**Drifnet**](https://github.com/imkrishn/Drifnet) | Community management |
-| [**Smartlink**](https://github.com/imkrishn/smartlink) | Link management |
-| **Samatic** | A personal AI agent I'm developing right now |
 
 **⚡ What I care about**
 
