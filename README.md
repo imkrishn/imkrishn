@@ -1,6 +1,6 @@
 
 
-### **Fullstack Engineer who's shipping real  products from last 2+ years.
+### Fullstack Engineer who's shipping real  products from last 2+ years.
 
 I'm Krishna, a builder who loves turning ideas into products people actually use. I shipped across multiple products as Software Engineer and manage team like a leader.
 
@@ -42,15 +42,16 @@ I'm Krishna, a builder who loves turning ideas into products people actually use
 <!-- animated contribution graph: real data, boxes reveal cell by cell
      (regenerated daily by .github/workflows/update-profile-art.yml) -->
 
-<h3><code>imkrishn@github ~ $ ./contributions.sh</code></h3>
+<!--<h3><code>imkrishn@github ~ $ ./contributions.sh</code></h3>
 
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph — auto-refreshed daily" />
 
 <br>
 <br>
 
-<h3><code>imkrishn@github ~ $ ./links.sh</code></h3>
+<h3><code>imkrishn@github ~ $ ./links.sh</code></h3>-->
 
 <p><b>Krishna Yadav · Developer · Builder</b></p>
+<p><b>Coffe & Code</b></p>
 
 </div>
