@@ -1,17 +1,17 @@
 {
   "username": "imkrishn",
-  "generated_at": "2026-11-13T09:17:20Z",
+  "generated_at": "2026-11-14T08:46:36Z",
   "range": {
     "start": "2025-11-09",
-    "end": "2026-11-13"
+    "end": "2026-11-14"
   },
   "total_contributions": 1137,
   "active_days": 269,
   "avg_per_active_day": 4.2,
   "current_streak": {
-    "length": 1,
-    "start": "2026-11-12",
-    "end": "2026-11-12"
+    "length": 0,
+    "start": null,
+    "end": null
   },
   "longest_streak": {
     "length": 110,
@@ -1555,6 +1555,10 @@
     },
     {
       "date": "2026-11-13",
+      "count": 0
+    },
+    {
+      "date": "2026-11-14",
       "count": 0
     }
   ]
