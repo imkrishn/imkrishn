@@ -1,6 +1,6 @@
 
 
-### Fullstack Engineer who's shipping real  products from last 2+ years.
+### Fullstack Engineer who can develop products from scratch to end to end production level 
 
 I'm Krishna, a builder who loves turning ideas into products people actually use. I shipped across multiple products as Software Engineer and manage team like a leader.
 
